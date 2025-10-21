@@ -1,0 +1,70 @@
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.exe.config
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.exe
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.pdb
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.AssemblyReference.cache
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmFuncionario.resources
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmLogin.resources
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmSplash.resources
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.Properties.Resources.resources
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.GenerateResource.cache
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.CoreCompileInputs.cache
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.exe
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.pdb
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.AssemblyReference.cache
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.exe.config
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmFuncionario.resources
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmLogin.resources
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmSplash.resources
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.Properties.Resources.resources
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.GenerateResource.cache
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.CoreCompileInputs.cache
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.exe
+E:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.pdb
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmLogin.resources
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmSplash.resources
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.exe
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.pdb
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmCliente.resources
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.exe.config
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.exe
+C:\Users\Aluno\Desktop\Projeto1GroupBox\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.pdb
+C:\Users\Aluno\Desktop\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.exe.config
+C:\Users\Aluno\Desktop\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.exe
+C:\Users\Aluno\Desktop\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.pdb
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmCliente.resources
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmLogin.resources
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmSplash.resources
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.exe
+C:\Users\Aluno\Desktop\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.pdb
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.exe.config
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.exe
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\bin\Debug\Projeto1GroupBox.pdb
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.AssemblyReference.cache
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmCliente.resources
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmLogin.resources
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.frmSplash.resources
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.Properties.Resources.resources
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.GenerateResource.cache
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.csproj.CoreCompileInputs.cache
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.exe
+D:\Ds\2 Módulo\DS\projeto atualizado\Projeto1GroupBox\obj\Debug\Projeto1GroupBox.pdb
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\bin\Debug\Projeto1GroupBox.exe.config
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\bin\Debug\Projeto1GroupBox.exe
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\bin\Debug\Projeto1GroupBox.pdb
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.frmCliente.resources
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.frmLogin.resources
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.frmSplash.resources
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.Properties.Resources.resources
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.exe
+C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.pdb
