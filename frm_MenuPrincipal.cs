@@ -21,5 +21,12 @@ namespace Projeto1GroupBox
         {
             Close();
         }
+
+        private void btn_cliente_Click(object sender, EventArgs e)
+        {
+            frmCliente abrir = new frmCliente();
+            abrir.Show();
+            this.Hide();
+        }
     }
 }

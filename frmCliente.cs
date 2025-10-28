@@ -47,7 +47,7 @@ namespace Projeto1GroupBox
 
         private void btnVoltar_Click(object sender, EventArgs e)
         {
-                frmLogin abrir = new frmLogin();
+                frm_MenuPrincipal abrir = new frm_MenuPrincipal();
                 abrir.Show();
                 this.Hide();
            
@@ -81,6 +81,26 @@ namespace Projeto1GroupBox
             txt_complemento.Enabled = true;
             txt_bairro.Enabled = true;
 
+
+        }
+
+        private void mst_RG_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmCliente_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
 
         }
     }

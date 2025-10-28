@@ -122,5 +122,17 @@
   <ItemGroup>
     <None Include="Resources\new.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bueno-cliente-feliz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bob esponja.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\andando.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

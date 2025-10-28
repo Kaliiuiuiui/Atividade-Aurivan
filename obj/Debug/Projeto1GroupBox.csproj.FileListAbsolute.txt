@@ -68,3 +68,16 @@ C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\De
 C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.exe
 C:\Users\Aluno\Desktop\projeto atualizado\GroupBox - Misael e Gracy kelly\obj\Debug\Projeto1GroupBox.pdb
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\bin\Debug\Projeto1GroupBox.exe.config
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\bin\Debug\Projeto1GroupBox.exe
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\bin\Debug\Projeto1GroupBox.pdb
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.frmCliente.resources
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.frmLogin.resources
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.frmSplash.resources
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.frm_MenuPrincipal.resources
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.exe
+C:\Users\Aluno\Downloads\Atividade-Aurivan-main\obj\Debug\Projeto1GroupBox.pdb

@@ -99,11 +99,11 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Projeto1GroupBox.Properties.Resources.Login;
+            this.pictureBox1.Image = global::Projeto1GroupBox.Properties.Resources.andando;
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(564, 138);
+            this.pictureBox1.Location = new System.Drawing.Point(537, 112);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(181, 135);
+            this.pictureBox1.Size = new System.Drawing.Size(214, 209);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;

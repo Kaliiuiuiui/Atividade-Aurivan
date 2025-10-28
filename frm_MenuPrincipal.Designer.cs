@@ -45,6 +45,7 @@
             this.btn_cliente.TabIndex = 0;
             this.btn_cliente.Text = "Cliente";
             this.btn_cliente.UseVisualStyleBackColor = false;
+            this.btn_cliente.Click += new System.EventHandler(this.btn_cliente_Click);
             // 
             // btn_produto
             // 
@@ -72,7 +73,7 @@
             // 
             this.btn_notaFiscal.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.btn_notaFiscal.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_notaFiscal.Location = new System.Drawing.Point(460, 309);
+            this.btn_notaFiscal.Location = new System.Drawing.Point(460, 321);
             this.btn_notaFiscal.Name = "btn_notaFiscal";
             this.btn_notaFiscal.Size = new System.Drawing.Size(120, 50);
             this.btn_notaFiscal.TabIndex = 3;
